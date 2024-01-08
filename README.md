@@ -7,12 +7,12 @@ This repository is an analysis of IHSG/JKSE stock price prediction by comparing 
 
 [See Published Paper Here (SOON)](https://)
 
-## ✨ Authors
+## ✨ Collaborators
 
-|              Name              |     Study Programme     | 
-| ------------------------------ | ----------------------- |
-| Dicky Setiawan                 | Informatics Engineering | 
-| Muhammad Ikhsan Anugrah        | Informatics Engineering | 
-| Tito Wira Eka Suryawijaya      | Management              | 
+|              Name              |     Study Programme     |                                            Social Media                                                | 
+| ------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------ | 
+| Dicky Setiawan                 | Informatics Engineering | [LinkedIn](https://www.linkedin.com/in/dickysstwn/) - [GitHub](https://github.com/dickysstwn)          |
+| Muhammad Ikhsan Anugrah        | Informatics Engineering | [LinkedIn](https://www.linkedin.com/in/muhammadikhsananugrah/) - [GitHub](https://github.com/MikhsanA) |
+| Tito Wira Eka Suryawijaya      | Management              | [LinkedIn](https://www.linkedin.com/in/titowes/)                                                       |
 
 Universitas Dian Nuswantoro | Used for Dinus International Youth Conference (DIYC) 2024
