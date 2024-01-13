@@ -12,7 +12,7 @@ This repository is an analysis of the prediction of the closing price of banking
 |              Name              |     Study Programme     |                                            Social Media                                                | 
 | ------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------ | 
 | Dicky Setiawan                 | Informatics Engineering | [LinkedIn](https://www.linkedin.com/in/dickysstwn/) - [GitHub](https://github.com/dickysstwn)          |
-| Muhammad Ikhsan Anugrah        | Informatics Engineering | [LinkedIn](https://www.linkedin.com/in/muhammadikhsananugrah/) - [GitHub](https://github.com/MikhsanA) |
 | Tito Wira Eka Suryawijaya      | Management              | [LinkedIn](https://www.linkedin.com/in/titowes/)                                                       |
+| Muhammad Ikhsan Anugrah        | Informatics Engineering | [LinkedIn](https://www.linkedin.com/in/muhammadikhsananugrah/) - [GitHub](https://github.com/MikhsanA) |
 
 Universitas Dian Nuswantoro | Used for Dinus International Youth Conference (DIYC) 2024
