@@ -5,7 +5,8 @@ This repository is an analysis of the prediction of the closing price of banking
 
 ## 📙 Presentation & Published Conference Paper
 
-[See Published Paper Here (SOON)](https://)
+- [See Presentation Slide Here (SOON)](https://)
+- [See Published Paper Here (SOON)](https://)
 
 ## ✨ Collaborators
 
