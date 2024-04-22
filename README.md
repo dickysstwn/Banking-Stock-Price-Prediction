@@ -9,7 +9,7 @@ This repository is an analysis of the prediction of the closing price of banking
 ## 📙 Presentation & Published Conference Paper
 
 - [See Presentation Slide Here](https://drive.google.com/file/d/1_2Y0pH_OmnGgPRFDxhDTwmJ7PyHv8yKI/view?usp=sharing)
-- [See Published Paper Here (SOON in June 2024)](https://)
+- [See Published Paper Here](https://ijamer.feb.dinus.ac.id/index.php/ijamer/article/view/30)
 
 ## ✨ Collaborators
 
